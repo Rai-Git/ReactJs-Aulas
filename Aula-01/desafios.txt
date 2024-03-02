@@ -1,0 +1,21 @@
+https://github.com/instrutorvilson/reactjs-2024.git
+
+https://www.w3schools.com/react/react_getstarted.asp
+
+atualizar npm
+> npm install -g npm@latest
+
+Criar projeto react
+> npx create-react-app aula1
+
+Desafio 1:
+Criar entrada no cadastro para
+Nome, email, fone
+
+Desafio 2:
+criar um componente de consulta que mostra uma tabela com as colunas ID, nome, email, fone
+
+Desafio 3:
+Criar um card de contato, receber os valores e nome, email e fone via props; no cadastro fazer o controle do estado do componente
+
+Desafio 4: fazer a validação de entrada de dados. Não permitir strings vazias
