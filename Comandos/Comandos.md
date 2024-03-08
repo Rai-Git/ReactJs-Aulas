@@ -1,3 +1,4 @@
+
 # Comandos para iniciar projeto
 
 npm install -g npm@latest
@@ -6,6 +7,7 @@ npm install -g npm@latest
 npx create-react-app aula1
 
 # Rodar projeto
+cd.. => Retorna uma pasta
 cd aula1
 npm start
 
