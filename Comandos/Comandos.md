@@ -1,18 +1,32 @@
 
-# Comandos para iniciar projeto
+# Anotações de Aulas
+
+## Comandos para iniciar projeto
 
 npm install -g npm@latest
 
-# Criar projeto
+## Criar projeto
+
 npx create-react-app aula1
 
-# Rodar projeto
+## Rodar projeto
+
 cd.. => Retorna uma pasta
 cd aula1
 npm start
 
-# Verifica se o node esta instalado
+## Verifica se o node esta instalado
+
 node --version
 
-# Depois que clonei precisei fazer esse comando
+## Depois que clonei precisei fazer esse comando
+
 npm install
+
+# Backend
+
+## Simulando uma API REST com JSON Server de maneira simples
+
+[Google](https://www.fabricadecodigo.com/json-server/)
+
+* npx json-server --watch db.json

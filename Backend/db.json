@@ -1,0 +1,46 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Hambúrguer",
+      "email": "hamburgue@gmail.com",
+      "fone": "(47)999456783"
+    },
+    {
+      "id": "dde8",
+      "nome": "Raí",
+      "email": "ernandes@gmail.com",
+      "fone": "479909889"
+    },
+    {
+      "id": "576c",
+      "nome": "Pão de queijo",
+      "email": "paobao@gmail.com",
+      "fone": "4789098765"
+    },
+    {
+      "id": "c3dd",
+      "nome": "gOU",
+      "email": "GOU@gmail.com",
+      "fone": "456789086"
+    },
+    {
+      "id": "60cc",
+      "nome": "",
+      "email": "",
+      "fone": ""
+    },
+    {
+      "id": "e099",
+      "nome": "",
+      "email": "",
+      "fone": ""
+    },
+    {
+      "id": "4acd",
+      "nome": "Rei",
+      "email": "rei@gmail.com",
+      "fone": "478907658"
+    }
+  ]
+}
