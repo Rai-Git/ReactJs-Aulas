@@ -30,3 +30,11 @@ npm install
 [Google](https://www.fabricadecodigo.com/json-server/)
 
 * npx json-server --watch db.json
+
+## Efeito alert
+
+[Google](https://www.npmjs.com/package/react-toastify)
+
+## Conponentes e efeitos prontos
+
+[Google](https://mui.com/material-ui/react-card/)

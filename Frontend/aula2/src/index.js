@@ -6,14 +6,24 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Consulta from './Componentes/consulta';
 import Cadastro from './Componentes/Cadastro';
 import App from './App';
+import Edicao from './Componentes/editar';
+import CadastroLocais from './Componentes/CadastroLocais';
+import ConsultaLocal from './Componentes/ConsultarLocal';
+import DadosCard from './Componentes/dadosCard';
 
 const router = createBrowserRouter(
   [
+    //Criando rotas
     {
       path:'/', element: <App/>,
       children:[
+        //Isso são rotas
         {path:'/cadastro',element: <Cadastro/>},
-        {path:'/consulta',element: <Consulta/>}
+        {path:'/consulta',element: <Consulta/>},
+        {path: '/contato/:idcontato',element: <Edicao/> },
+        {path:'/cadastroLocais',element: <CadastroLocais/>},
+        {path:'/consultarLocal',element: <ConsultaLocal/>},
+        {path:'/consultarcards',element: <DadosCard/>}
       ]
     }
   ]
